@@ -1,0 +1,12 @@
+{
+  "lotus_types": [
+    {
+      "name": "Nelumbo nucifera",
+      "color": "Pink"
+    },
+    {
+      "name": "Nelumbo lutea",
+      "color": "Yellow"
+    }
+  ]
+}
